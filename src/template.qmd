@@ -1,6 +1,7 @@
 ---
 format:
-  culetter-pdf: default
+  culetter-pdf:
+    latex-output-dir: ../out
 author:
   - name: Damon C. Roberts
     affiliations:
