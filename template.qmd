@@ -1,0 +1,36 @@
+---
+format:
+  culetter-pdf: default
+author:
+  - name: Damon C. Roberts
+    affiliations:
+      - name: University of Colorado Boulder
+        department: Department of Political Science
+        address: 333 UCB
+        city: Boulder, CO
+        postal-code: 80309
+        country: USA
+address:
+ - Recepient Name
+ - Department of Political Science
+ - Monsters University
+ - Monstropolis
+ - MO
+ - 911
+subject: collaboration
+opening: "Dear Sir or Madam,"
+closing: "Yours Faithfully,"
+signature: signature.pdf
+logo: CUBoulder.pdf
+cc:
+  - Recipient 1
+  - Recipient 2
+encl:
+  - Enclosure 1
+  - Enclosure 2
+ps: |
+  PS: Lorem ipsum dolor sit amet, *consectetur* adipiscing elit.
+---
+
+I am writing you today to express my interest in teaching Scary stats 101!
+
