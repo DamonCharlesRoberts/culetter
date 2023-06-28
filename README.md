@@ -1,24 +1,17 @@
 # Culetter Format
 
 ## Installing
-
-*TODO*: Replace the `<github-organization>` with your GitHub organization.
-
 ```bash
-quarto use template <github-organization>/culetter
+quarto use template damoncharlesroberts/culetter
 ```
 
-This will install the extension and create an example qmd file that you can use as a starting place for your article.
+This will install the extension and create an example qmd file that you can use as a starting place for your letter.
 
 ## Using
 
-*TODO*: Describe how to use your format.
-
-## Format Options
-
-*TODO*: If your format has options that can be set via document metadata, describe them.
+You will need to include a pdf or jpeg file of your signature and of the logo for your institution. See [template.qmd](template.qmd) for a list of available yaml options.=
 
 ## Example
 
-Here is the source code for a minimal sample document: [example.qmd](example.qmd).
+Here is the source code for a minimal sample document: [template.qmd](template.qmd).
 
