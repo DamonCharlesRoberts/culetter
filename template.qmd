@@ -21,8 +21,8 @@ address:
 subject: collaboration
 opening: "Dear Sir or Madam,"
 closing: "Yours Faithfully,"
-signature: signature.pdf
-logo: CUBoulder.pdf
+signature: ./assets/signature.pdf
+logo: ./assets/CUBoulder.pdf
 cc:
   - Recipient 1
   - Recipient 2
