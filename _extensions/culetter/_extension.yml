@@ -12,4 +12,8 @@ contributes:
         - "partials/_authors.tex"
       include-in-header:
         - header.tex
-
+      geometry:
+        - top=0.7in
+        - bottom=0.7in
+        - left=0.7in
+        - right=0.7in
